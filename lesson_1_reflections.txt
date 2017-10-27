@@ -1,0 +1,4 @@
+How did viewing a diff between 2 versions of a file help you see bug that was introduced?
+Under Windows, use the "FC" tool in the command line;
+Under Unix-based OS, use the "diff" tool in shell
+
