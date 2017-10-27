@@ -1,3 +1,5 @@
 What will happen when you creat a new repository? Why do you need to do that?
 
 .git
+
+What's the difference between staging area with working directory?
